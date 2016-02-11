@@ -1,0 +1,2286 @@
+
+----------------------------------------------------------------------
+PROCESS NAME: [System Process]
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 87 (The parameter is incorrect.
+)
+
+ Process ID = 0x00000000
+ Thread Count = 2
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000000
+ Thread ID 0x00000000
+
+----------------------------------------------------------------------
+PROCESS NAME: System
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000004
+ Thread Count = 180
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x0000000C
+ Thread ID 0x00000010
+ Thread ID 0x00000014
+ Thread ID 0x00000018
+ Thread ID 0x0000001C
+ Thread ID 0x00000024
+ Thread ID 0x00000028
+ Thread ID 0x0000002C
+ Thread ID 0x00000030
+ Thread ID 0x00000034
+ Thread ID 0x00000038
+ Thread ID 0x0000003C
+ Thread ID 0x00000040
+ Thread ID 0x00000044
+ Thread ID 0x0000004C
+ Thread ID 0x00000050
+ Thread ID 0x00000054
+ Thread ID 0x00000058
+ Thread ID 0x0000005C
+ Thread ID 0x00000060
+ Thread ID 0x0000006C
+ Thread ID 0x00000070
+ Thread ID 0x00000074
+ Thread ID 0x00000078
+ Thread ID 0x0000007C
+ Thread ID 0x00000080
+ Thread ID 0x00000084
+ Thread ID 0x0000008C
+ Thread ID 0x00000090
+ Thread ID 0x00000094
+ Thread ID 0x000000A0
+ Thread ID 0x000000A4
+ Thread ID 0x000000A8
+ Thread ID 0x000000AC
+ Thread ID 0x000000B4
+ Thread ID 0x000000D8
+ Thread ID 0x000000DC
+ Thread ID 0x000000E0
+ Thread ID 0x000000E4
+ Thread ID 0x000000E8
+ Thread ID 0x000000EC
+ Thread ID 0x0000010C
+ Thread ID 0x00000110
+ Thread ID 0x00000114
+ Thread ID 0x00000118
+ Thread ID 0x0000011C
+ Thread ID 0x00000120
+ Thread ID 0x00000124
+ Thread ID 0x00000128
+ Thread ID 0x0000012C
+ Thread ID 0x00000130
+ Thread ID 0x00000134
+ Thread ID 0x00000138
+ Thread ID 0x0000013C
+ Thread ID 0x00000140
+ Thread ID 0x00000144
+ Thread ID 0x00000148
+ Thread ID 0x0000014C
+ Thread ID 0x00000150
+ Thread ID 0x00000154
+ Thread ID 0x00000158
+ Thread ID 0x0000015C
+ Thread ID 0x00000160
+ Thread ID 0x00000164
+ Thread ID 0x00000168
+ Thread ID 0x0000016C
+ Thread ID 0x00000170
+ Thread ID 0x00000174
+ Thread ID 0x00000178
+ Thread ID 0x00000190
+ Thread ID 0x00000194
+ Thread ID 0x000001B0
+ Thread ID 0x000001B4
+ Thread ID 0x000001BC
+ Thread ID 0x000001C0
+ Thread ID 0x000001C4
+ Thread ID 0x000001C8
+ Thread ID 0x000001CC
+ Thread ID 0x000001D0
+ Thread ID 0x000001D4
+ Thread ID 0x000001D8
+ Thread ID 0x000001DC
+ Thread ID 0x000001E0
+ Thread ID 0x000001E4
+ Thread ID 0x000001E8
+ Thread ID 0x000001EC
+ Thread ID 0x000001F0
+ Thread ID 0x000001F4
+ Thread ID 0x000001F8
+ Thread ID 0x000001FC
+ Thread ID 0x00000200
+ Thread ID 0x00000204
+ Thread ID 0x00000208
+ Thread ID 0x0000020C
+ Thread ID 0x00000210
+ Thread ID 0x00000214
+ Thread ID 0x00000218
+ Thread ID 0x0000021C
+ Thread ID 0x00000220
+ Thread ID 0x00000224
+ Thread ID 0x00000228
+ Thread ID 0x0000022C
+ Thread ID 0x00000230
+ Thread ID 0x00000234
+ Thread ID 0x00000238
+ Thread ID 0x0000023C
+ Thread ID 0x00000240
+ Thread ID 0x00000244
+ Thread ID 0x00000248
+ Thread ID 0x00000278
+ Thread ID 0x0000027C
+ Thread ID 0x00000280
+ Thread ID 0x00000284
+ Thread ID 0x00000288
+ Thread ID 0x000002CC
+ Thread ID 0x000004A0
+ Thread ID 0x000004A8
+ Thread ID 0x000004AC
+ Thread ID 0x000004B0
+ Thread ID 0x00000764
+ Thread ID 0x00000768
+ Thread ID 0x0000076C
+ Thread ID 0x0000066C
+ Thread ID 0x00000714
+ Thread ID 0x00000820
+ Thread ID 0x00000834
+ Thread ID 0x0000084C
+ Thread ID 0x00000914
+ Thread ID 0x00000918
+ Thread ID 0x0000091C
+ Thread ID 0x00000920
+ Thread ID 0x00000924
+ Thread ID 0x00000928
+ Thread ID 0x0000092C
+ Thread ID 0x00000930
+ Thread ID 0x00000934
+ Thread ID 0x00000938
+ Thread ID 0x00000984
+ Thread ID 0x00000988
+ Thread ID 0x0000098C
+ Thread ID 0x00000994
+ Thread ID 0x000009A4
+ Thread ID 0x00000A90
+ Thread ID 0x00001134
+ Thread ID 0x00001B74
+ Thread ID 0x00001BF4
+ Thread ID 0x000002D8
+ Thread ID 0x00000ECC
+ Thread ID 0x000010F0
+ Thread ID 0x00000BC4
+ Thread ID 0x0000029C
+ Thread ID 0x00001D54
+ Thread ID 0x0000233C
+ Thread ID 0x00002264
+ Thread ID 0x00002068
+ Thread ID 0x00000CE4
+ Thread ID 0x00001D94
+ Thread ID 0x00001DA4
+ Thread ID 0x0000162C
+ Thread ID 0x00001D70
+ Thread ID 0x00001980
+ Thread ID 0x00000BE4
+ Thread ID 0x000022E8
+ Thread ID 0x000012D4
+ Thread ID 0x00001D44
+ Thread ID 0x00001E4C
+ Thread ID 0x00001674
+ Thread ID 0x00001EBC
+ Thread ID 0x0000030C
+ Thread ID 0x00001444
+ Thread ID 0x000002B0
+ Thread ID 0x00001A34
+ Thread ID 0x000013C0
+ Thread ID 0x0000202C
+ Thread ID 0x000023F0
+ Thread ID 0x000012AC
+ Thread ID 0x000009B0
+ Thread ID 0x000017EC
+ Thread ID 0x00000FDC
+ Thread ID 0x000007AC
+
+----------------------------------------------------------------------
+PROCESS NAME: smss.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x0000017C
+ Thread Count = 2
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000180
+ Thread ID 0x00001480
+
+----------------------------------------------------------------------
+PROCESS NAME: csrss.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x0000025C
+ Thread Count = 11
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x0000026C
+ Thread ID 0x0000028C
+ Thread ID 0x00000290
+ Thread ID 0x00000294
+ Thread ID 0x000002C4
+ Thread ID 0x00000304
+ Thread ID 0x00000308
+ Thread ID 0x00000198
+ Thread ID 0x000004E8
+ Thread ID 0x00000844
+ Thread ID 0x00000860
+
+----------------------------------------------------------------------
+PROCESS NAME: wininit.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x000002A0
+ Thread Count = 1
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000002A4
+
+----------------------------------------------------------------------
+PROCESS NAME: services.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000314
+ Thread Count = 4
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000390
+ Thread ID 0x00000DEC
+ Thread ID 0x00001FE4
+ Thread ID 0x0000180C
+
+----------------------------------------------------------------------
+PROCESS NAME: lsass.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000328
+ Thread Count = 7
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000338
+ Thread ID 0x0000033C
+ Thread ID 0x00000340
+ Thread ID 0x00000358
+ Thread ID 0x0000141C
+ Thread ID 0x00001F78
+ Thread ID 0x0000207C
+
+----------------------------------------------------------------------
+PROCESS NAME: svchost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000370
+ Thread Count = 20
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000374
+ Thread ID 0x00000388
+ Thread ID 0x00000398
+ Thread ID 0x000003E0
+ Thread ID 0x000003E4
+ Thread ID 0x000001A0
+ Thread ID 0x00000008
+ Thread ID 0x00000D20
+ Thread ID 0x00000D24
+ Thread ID 0x00001CF4
+ Thread ID 0x000009DC
+ Thread ID 0x00000EA4
+ Thread ID 0x000001AC
+ Thread ID 0x00000C50
+ Thread ID 0x000007D0
+ Thread ID 0x00001878
+ Thread ID 0x00000EA8
+ Thread ID 0x00000C7C
+ Thread ID 0x000023C4
+ Thread ID 0x00001A08
+
+----------------------------------------------------------------------
+PROCESS NAME: svchost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x000003A4
+ Thread Count = 12
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000003A8
+ Thread ID 0x000003B8
+ Thread ID 0x000003BC
+ Thread ID 0x00001A38
+ Thread ID 0x000017C0
+ Thread ID 0x00001AF8
+ Thread ID 0x00002258
+ Thread ID 0x00002108
+ Thread ID 0x00002044
+ Thread ID 0x0000115C
+ Thread ID 0x00001EDC
+ Thread ID 0x00001D78
+
+----------------------------------------------------------------------
+PROCESS NAME: svchost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x0000035C
+ Thread Count = 68
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000360
+ Thread ID 0x00000484
+ Thread ID 0x000004B4
+ Thread ID 0x000004B8
+ Thread ID 0x000004FC
+ Thread ID 0x000005B4
+ Thread ID 0x000005B8
+ Thread ID 0x000005BC
+ Thread ID 0x000005C4
+ Thread ID 0x00000604
+ Thread ID 0x000006B8
+ Thread ID 0x000006E4
+ Thread ID 0x000006E8
+ Thread ID 0x00000748
+ Thread ID 0x000004A4
+ Thread ID 0x000007F0
+ Thread ID 0x00000838
+ Thread ID 0x00000910
+ Thread ID 0x000009F4
+ Thread ID 0x00000A5C
+ Thread ID 0x00000AA0
+ Thread ID 0x00000E60
+ Thread ID 0x00000E64
+ Thread ID 0x00000E88
+ Thread ID 0x00000F5C
+ Thread ID 0x00000EB8
+ Thread ID 0x000007E4
+ Thread ID 0x00001204
+ Thread ID 0x00001494
+ Thread ID 0x00001574
+ Thread ID 0x00001144
+ Thread ID 0x000010A8
+ Thread ID 0x0000078C
+ Thread ID 0x000006A4
+ Thread ID 0x000014E0
+ Thread ID 0x00001224
+ Thread ID 0x0000048C
+ Thread ID 0x00001420
+ Thread ID 0x00001930
+ Thread ID 0x000002BC
+ Thread ID 0x00001AE8
+ Thread ID 0x00001C10
+ Thread ID 0x00000EC4
+ Thread ID 0x00001C40
+ Thread ID 0x000007DC
+ Thread ID 0x000017D0
+ Thread ID 0x000004F4
+ Thread ID 0x0000160C
+ Thread ID 0x00000EE8
+ Thread ID 0x00001AEC
+ Thread ID 0x00001CC8
+ Thread ID 0x00001570
+ Thread ID 0x00001CFC
+ Thread ID 0x000013A0
+ Thread ID 0x0000081C
+ Thread ID 0x00002254
+ Thread ID 0x00000F54
+ Thread ID 0x00001D4C
+ Thread ID 0x000013CC
+ Thread ID 0x00001AFC
+ Thread ID 0x0000044C
+ Thread ID 0x00002368
+ Thread ID 0x000022D8
+ Thread ID 0x00001750
+ Thread ID 0x00000EAC
+ Thread ID 0x00000B24
+ Thread ID 0x0000079C
+ Thread ID 0x00000628
+
+----------------------------------------------------------------------
+PROCESS NAME: svchost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000354
+ Thread Count = 42
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000380
+ Thread ID 0x0000042C
+ Thread ID 0x00000448
+ Thread ID 0x00000538
+ Thread ID 0x0000053C
+ Thread ID 0x000005B0
+ Thread ID 0x000005CC
+ Thread ID 0x0000068C
+ Thread ID 0x00000690
+ Thread ID 0x00000694
+ Thread ID 0x00000698
+ Thread ID 0x0000069C
+ Thread ID 0x000006D4
+ Thread ID 0x000006D8
+ Thread ID 0x0000070C
+ Thread ID 0x00000758
+ Thread ID 0x0000075C
+ Thread ID 0x00000760
+ Thread ID 0x000007D8
+ Thread ID 0x00000E80
+ Thread ID 0x000000F4
+ Thread ID 0x000017AC
+ Thread ID 0x00001AF0
+ Thread ID 0x000013F4
+ Thread ID 0x00001120
+ Thread ID 0x000006F4
+ Thread ID 0x000018C8
+ Thread ID 0x000014F0
+ Thread ID 0x00002268
+ Thread ID 0x000015E0
+ Thread ID 0x00001350
+ Thread ID 0x00001764
+ Thread ID 0x0000188C
+ Thread ID 0x00002060
+ Thread ID 0x00001AB8
+ Thread ID 0x00000F30
+ Thread ID 0x00000CC4
+ Thread ID 0x000020E4
+ Thread ID 0x00001FEC
+ Thread ID 0x00001B5C
+ Thread ID 0x00001E08
+ Thread ID 0x00002360
+
+----------------------------------------------------------------------
+PROCESS NAME: svchost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000384
+ Thread Count = 17
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000394
+ Thread ID 0x00000424
+ Thread ID 0x00000638
+ Thread ID 0x0000064C
+ Thread ID 0x0000073C
+ Thread ID 0x000007BC
+ Thread ID 0x000007F4
+ Thread ID 0x00000634
+ Thread ID 0x000008CC
+ Thread ID 0x000008D4
+ Thread ID 0x0000096C
+ Thread ID 0x00000DC8
+ Thread ID 0x00001058
+ Thread ID 0x00000F20
+ Thread ID 0x00001FDC
+ Thread ID 0x00000558
+ Thread ID 0x00001E28
+
+----------------------------------------------------------------------
+PROCESS NAME: svchost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x000004C8
+ Thread Count = 9
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000004CC
+ Thread ID 0x000004F8
+ Thread ID 0x00000E6C
+ Thread ID 0x00000E70
+ Thread ID 0x00000E74
+ Thread ID 0x00000E84
+ Thread ID 0x000015D0
+ Thread ID 0x00001BB8
+ Thread ID 0x00000FE4
+
+----------------------------------------------------------------------
+PROCESS NAME: svchost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x000004D0
+ Thread Count = 24
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000004D4
+ Thread ID 0x00000528
+ Thread ID 0x00000540
+ Thread ID 0x00000544
+ Thread ID 0x00000580
+ Thread ID 0x00000584
+ Thread ID 0x000005C0
+ Thread ID 0x00000658
+ Thread ID 0x0000065C
+ Thread ID 0x000006F8
+ Thread ID 0x00000708
+ Thread ID 0x0000074C
+ Thread ID 0x00000750
+ Thread ID 0x0000077C
+ Thread ID 0x00000784
+ Thread ID 0x00001774
+ Thread ID 0x0000177C
+ Thread ID 0x00000FC4
+ Thread ID 0x00000FE0
+ Thread ID 0x000018DC
+ Thread ID 0x000013A8
+ Thread ID 0x00001B38
+ Thread ID 0x00001044
+ Thread ID 0x000022F8
+
+----------------------------------------------------------------------
+PROCESS NAME: svchost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000500
+ Thread Count = 27
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000504
+ Thread ID 0x00000524
+ Thread ID 0x000005E0
+ Thread ID 0x000005E4
+ Thread ID 0x000005E8
+ Thread ID 0x000005EC
+ Thread ID 0x000005F0
+ Thread ID 0x00000640
+ Thread ID 0x00000644
+ Thread ID 0x00000648
+ Thread ID 0x000007FC
+ Thread ID 0x00000418
+ Thread ID 0x00000830
+ Thread ID 0x0000097C
+ Thread ID 0x00000C64
+ Thread ID 0x0000102C
+ Thread ID 0x0000189C
+ Thread ID 0x00000948
+ Thread ID 0x000020A4
+ Thread ID 0x000013E0
+ Thread ID 0x00001DF4
+ Thread ID 0x00000E40
+ Thread ID 0x00000C78
+ Thread ID 0x000011DC
+ Thread ID 0x0000195C
+ Thread ID 0x00002314
+ Thread ID 0x00001958
+
+----------------------------------------------------------------------
+PROCESS NAME: WUDFHost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x0000055C
+ Thread Count = 8
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000560
+ Thread ID 0x0000056C
+ Thread ID 0x00000570
+ Thread ID 0x00000574
+ Thread ID 0x00000578
+ Thread ID 0x00000594
+ Thread ID 0x00000598
+ Thread ID 0x0000059C
+
+----------------------------------------------------------------------
+PROCESS NAME: igfxCUIService.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x000005FC
+ Thread Count = 4
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000600
+ Thread ID 0x0000061C
+ Thread ID 0x0000103C
+ Thread ID 0x00000BB8
+
+----------------------------------------------------------------------
+PROCESS NAME: RtkAudioService64.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000664
+ Thread Count = 2
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000668
+ Thread ID 0x000006C4
+
+----------------------------------------------------------------------
+PROCESS NAME: spoolsv.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000770
+ Thread Count = 12
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000774
+ Thread ID 0x00000790
+ Thread ID 0x000007A0
+ Thread ID 0x0000114C
+ Thread ID 0x00000960
+ Thread ID 0x00000E90
+ Thread ID 0x00001208
+ Thread ID 0x000012B0
+ Thread ID 0x00000454
+ Thread ID 0x00001954
+ Thread ID 0x00000C98
+ Thread ID 0x000018B4
+
+----------------------------------------------------------------------
+PROCESS NAME: svchost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x0000046C
+ Thread Count = 24
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000434
+ Thread ID 0x00000520
+ Thread ID 0x00000674
+ Thread ID 0x000006A0
+ Thread ID 0x00000704
+ Thread ID 0x00000710
+ Thread ID 0x000006EC
+ Thread ID 0x00000724
+ Thread ID 0x00000720
+ Thread ID 0x00000728
+ Thread ID 0x000007E8
+ Thread ID 0x00000804
+ Thread ID 0x00000824
+ Thread ID 0x00000828
+ Thread ID 0x00000A94
+ Thread ID 0x00000A98
+ Thread ID 0x00000A9C
+ Thread ID 0x00000BA0
+ Thread ID 0x00001A70
+ Thread ID 0x000016E4
+ Thread ID 0x000014BC
+ Thread ID 0x000016A4
+ Thread ID 0x000003CC
+ Thread ID 0x00001424
+
+----------------------------------------------------------------------
+PROCESS NAME: sched.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000624
+ Thread Count = 14
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000620
+ Thread ID 0x00000780
+ Thread ID 0x000005C8
+ Thread ID 0x00000AE4
+ Thread ID 0x00000AE8
+ Thread ID 0x00000AEC
+ Thread ID 0x00000B00
+ Thread ID 0x00000B04
+ Thread ID 0x00000B0C
+ Thread ID 0x00000B34
+ Thread ID 0x000015B0
+ Thread ID 0x00000F08
+ Thread ID 0x00000FBC
+ Thread ID 0x00001A24
+
+----------------------------------------------------------------------
+PROCESS NAME: AERTSr64.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x000006CC
+ Thread Count = 2
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000006AC
+ Thread ID 0x00000818
+
+----------------------------------------------------------------------
+PROCESS NAME: svchost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x000006A8
+ Thread Count = 12
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000007EC
+ Thread ID 0x00000A6C
+ Thread ID 0x00000A74
+ Thread ID 0x00000A78
+ Thread ID 0x00000A7C
+ Thread ID 0x00000A80
+ Thread ID 0x00000A84
+ Thread ID 0x00000A88
+ Thread ID 0x00001104
+ Thread ID 0x000017B4
+ Thread ID 0x00000C38
+ Thread ID 0x00001410
+
+----------------------------------------------------------------------
+PROCESS NAME: dirmngr.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000808
+ Thread Count = 3
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x0000080C
+ Thread ID 0x000008BC
+ Thread ID 0x000009D8
+
+----------------------------------------------------------------------
+PROCESS NAME: mysqld.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x0000083C
+ Thread Count = 25
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000840
+ Thread ID 0x000008B4
+ Thread ID 0x000008D0
+ Thread ID 0x00000A1C
+ Thread ID 0x00000A20
+ Thread ID 0x00000A24
+ Thread ID 0x00000A28
+ Thread ID 0x00000A2C
+ Thread ID 0x00000A30
+ Thread ID 0x00000A34
+ Thread ID 0x00000A38
+ Thread ID 0x00000A3C
+ Thread ID 0x00000A40
+ Thread ID 0x00000B18
+ Thread ID 0x00000B14
+ Thread ID 0x00000B40
+ Thread ID 0x00000B58
+ Thread ID 0x00000458
+ Thread ID 0x000004D8
+ Thread ID 0x000004BC
+ Thread ID 0x000000F8
+ Thread ID 0x00000814
+ Thread ID 0x00000C5C
+ Thread ID 0x00000C60
+ Thread ID 0x00000FA8
+
+----------------------------------------------------------------------
+PROCESS NAME: Avira.ServiceHost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000850
+ Thread Count = 21
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000854
+ Thread ID 0x000008B0
+ Thread ID 0x000009E8
+ Thread ID 0x00000B88
+ Thread ID 0x00000564
+ Thread ID 0x00001320
+ Thread ID 0x00000D90
+ Thread ID 0x000011F4
+ Thread ID 0x000010C0
+ Thread ID 0x00001894
+ Thread ID 0x000013B4
+ Thread ID 0x00001474
+ Thread ID 0x000016A0
+ Thread ID 0x00001C2C
+ Thread ID 0x00002010
+ Thread ID 0x000016D8
+ Thread ID 0x00001F44
+ Thread ID 0x00002160
+ Thread ID 0x00001D1C
+ Thread ID 0x00000CF8
+ Thread ID 0x00001C28
+
+----------------------------------------------------------------------
+PROCESS NAME: IpOverUsbSvc.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000858
+ Thread Count = 7
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x0000085C
+ Thread ID 0x000008AC
+ Thread ID 0x00000964
+ Thread ID 0x00000B48
+ Thread ID 0x00000B4C
+ Thread ID 0x000014D8
+ Thread ID 0x0000174C
+
+----------------------------------------------------------------------
+PROCESS NAME: avguard.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x0000086C
+ Thread Count = 41
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000870
+ Thread ID 0x000008B8
+ Thread ID 0x000008DC
+ Thread ID 0x00000AD4
+ Thread ID 0x00000AD8
+ Thread ID 0x00000AF4
+ Thread ID 0x00000B1C
+ Thread ID 0x0000041C
+ Thread ID 0x00001064
+ Thread ID 0x0000117C
+ Thread ID 0x00000D94
+ Thread ID 0x000014FC
+ Thread ID 0x00001500
+ Thread ID 0x00001504
+ Thread ID 0x00001508
+ Thread ID 0x0000150C
+ Thread ID 0x00001510
+ Thread ID 0x00001514
+ Thread ID 0x00001518
+ Thread ID 0x0000151C
+ Thread ID 0x00001520
+ Thread ID 0x00001524
+ Thread ID 0x00001528
+ Thread ID 0x0000152C
+ Thread ID 0x00001530
+ Thread ID 0x00001534
+ Thread ID 0x00001538
+ Thread ID 0x0000153C
+ Thread ID 0x00001540
+ Thread ID 0x00001550
+ Thread ID 0x00001554
+ Thread ID 0x00001558
+ Thread ID 0x0000155C
+ Thread ID 0x00001560
+ Thread ID 0x00001A20
+ Thread ID 0x00001234
+ Thread ID 0x000004C0
+ Thread ID 0x000011FC
+ Thread ID 0x00000334
+ Thread ID 0x00002310
+ Thread ID 0x00000E34
+
+----------------------------------------------------------------------
+PROCESS NAME: SynTPEnhService.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x000008E8
+ Thread Count = 3
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000008EC
+ Thread ID 0x00000950
+ Thread ID 0x00000990
+
+----------------------------------------------------------------------
+PROCESS NAME: svchost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x000008FC
+ Thread Count = 4
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000900
+ Thread ID 0x0000157C
+ Thread ID 0x00001308
+ Thread ID 0x00001C98
+
+----------------------------------------------------------------------
+PROCESS NAME: svchost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000904
+ Thread Count = 8
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000908
+ Thread ID 0x00000980
+ Thread ID 0x000009A8
+ Thread ID 0x000009AC
+ Thread ID 0x000013B8
+ Thread ID 0x0000087C
+ Thread ID 0x00000098
+ Thread ID 0x00000F74
+
+----------------------------------------------------------------------
+PROCESS NAME: GoogleCrashHandler.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000CFC
+ Thread Count = 3
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000D00
+ Thread ID 0x00000D28
+ Thread ID 0x00000D2C
+
+----------------------------------------------------------------------
+PROCESS NAME: GoogleCrashHandler64.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000D30
+ Thread Count = 3
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000D34
+ Thread ID 0x00000D88
+ Thread ID 0x00000D8C
+
+----------------------------------------------------------------------
+PROCESS NAME: PresentationFontCache.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x000003F4
+ Thread Count = 4
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000404
+ Thread ID 0x000004E4
+ Thread ID 0x000004DC
+ Thread ID 0x000005A8
+
+----------------------------------------------------------------------
+PROCESS NAME: svchost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x0000116C
+ Thread Count = 4
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001170
+ Thread ID 0x00000188
+ Thread ID 0x0000142C
+ Thread ID 0x000023C0
+
+----------------------------------------------------------------------
+PROCESS NAME: avshadow.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000E3C
+ Thread Count = 2
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000E94
+ Thread ID 0x000010C4
+
+----------------------------------------------------------------------
+PROCESS NAME: alg.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x000016C0
+ Thread Count = 4
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000016C4
+ Thread ID 0x000016E8
+ Thread ID 0x00000DA8
+ Thread ID 0x00001D38
+
+----------------------------------------------------------------------
+PROCESS NAME: dasHost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000A48
+ Thread Count = 1
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001100
+
+----------------------------------------------------------------------
+PROCESS NAME: armsvc.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00001BB0
+ Thread Count = 2
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000018EC
+ Thread ID 0x00001054
+
+----------------------------------------------------------------------
+PROCESS NAME: SearchIndexer.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00001DB8
+ Thread Count = 20
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001AB4
+ Thread ID 0x000019A8
+ Thread ID 0x0000182C
+ Thread ID 0x00001660
+ Thread ID 0x000017F4
+ Thread ID 0x000001A8
+ Thread ID 0x00000F80
+ Thread ID 0x00001FA8
+ Thread ID 0x00001B48
+ Thread ID 0x000009F8
+ Thread ID 0x00000F44
+ Thread ID 0x00001C30
+ Thread ID 0x00000DAC
+ Thread ID 0x00001D5C
+ Thread ID 0x00000D4C
+ Thread ID 0x0000168C
+ Thread ID 0x00001398
+ Thread ID 0x000016FC
+ Thread ID 0x000010AC
+ Thread ID 0x000011B0
+
+----------------------------------------------------------------------
+PROCESS NAME: csrss.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x000018D8
+ Thread Count = 11
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000021F0
+ Thread ID 0x00000630
+ Thread ID 0x00000EBC
+ Thread ID 0x000021BC
+ Thread ID 0x00001EF8
+ Thread ID 0x00000508
+ Thread ID 0x00001E00
+ Thread ID 0x000019F8
+ Thread ID 0x000018E8
+ Thread ID 0x000016CC
+ Thread ID 0x000010D0
+
+----------------------------------------------------------------------
+PROCESS NAME: winlogon.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x000012B4
+ Thread Count = 2
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001DC0
+ Thread ID 0x000009A0
+
+----------------------------------------------------------------------
+PROCESS NAME: dwm.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00001CB0
+ Thread Count = 8
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000015B8
+ Thread ID 0x00001440
+ Thread ID 0x0000178C
+ Thread ID 0x00000CBC
+ Thread ID 0x00000D70
+ Thread ID 0x00001E58
+ Thread ID 0x00002300
+ Thread ID 0x00001C04
+
+----------------------------------------------------------------------
+PROCESS NAME: taskhostw.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00002004
+ Thread Count = 10
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000022B0
+ Thread ID 0x00001140
+ Thread ID 0x00001910
+ Thread ID 0x00000BF8
+ Thread ID 0x00000F00
+ Thread ID 0x000013D0
+ Thread ID 0x00000B8C
+ Thread ID 0x000018E4
+ Thread ID 0x000018BC
+ Thread ID 0x000014A4
+
+----------------------------------------------------------------------
+PROCESS NAME: sihost.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00001BBC
+ Thread Count = 12
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001A18
+ Thread ID 0x00000FF0
+ Thread ID 0x0000219C
+ Thread ID 0x00000BA8
+ Thread ID 0x00001388
+ Thread ID 0x00001E14
+ Thread ID 0x00001990
+ Thread ID 0x00001B18
+ Thread ID 0x00001AD0
+ Thread ID 0x00000298
+ Thread ID 0x00001128
+ Thread ID 0x0000211C
+
+----------------------------------------------------------------------
+PROCESS NAME: RAVBg64.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00001710
+ Thread Count = 4
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001BF0
+ Thread ID 0x00000E98
+ Thread ID 0x00002104
+ Thread ID 0x000022C0
+
+----------------------------------------------------------------------
+PROCESS NAME: SynTPEnh.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00000DD8
+ Thread Count = 7
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x0000101C
+ Thread ID 0x00001F8C
+ Thread ID 0x00002390
+ Thread ID 0x00000D84
+ Thread ID 0x00001D64
+ Thread ID 0x000014AC
+ Thread ID 0x00002030
+
+----------------------------------------------------------------------
+PROCESS NAME: igfxEM.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00001EA4
+ Thread Count = 7
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x0000108C
+ Thread ID 0x00001CC0
+ Thread ID 0x000021FC
+ Thread ID 0x00002130
+ Thread ID 0x000023A8
+ Thread ID 0x00001D28
+ Thread ID 0x00000C2C
+
+----------------------------------------------------------------------
+PROCESS NAME: igfxHK.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x000021D8
+ Thread Count = 4
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001E90
+ Thread ID 0x000012EC
+ Thread ID 0x000019E4
+ Thread ID 0x00001F24
+
+----------------------------------------------------------------------
+PROCESS NAME: igfxTray.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00000ED8
+ Thread Count = 4
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000E14
+ Thread ID 0x00000ADC
+ Thread ID 0x00001B28
+ Thread ID 0x00000B2C
+
+----------------------------------------------------------------------
+PROCESS NAME: SynTPHelper.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x0000043C
+ Thread Count = 1
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001C7C
+
+----------------------------------------------------------------------
+PROCESS NAME: explorer.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x0000192C
+ Thread Count = 64
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001598
+ Thread ID 0x00001080
+ Thread ID 0x0000060C
+ Thread ID 0x00001138
+ Thread ID 0x00001A1C
+ Thread ID 0x00001218
+ Thread ID 0x00000DB0
+ Thread ID 0x000018E0
+ Thread ID 0x00001294
+ Thread ID 0x00000B6C
+ Thread ID 0x00001164
+ Thread ID 0x00001DCC
+ Thread ID 0x000023BC
+ Thread ID 0x00000CAC
+ Thread ID 0x00000754
+ Thread ID 0x00001484
+ Thread ID 0x00001564
+ Thread ID 0x00001228
+ Thread ID 0x000016B0
+ Thread ID 0x00001868
+ Thread ID 0x00000744
+ Thread ID 0x00000B84
+ Thread ID 0x000012E4
+ Thread ID 0x00000F48
+ Thread ID 0x00000BC8
+ Thread ID 0x00002280
+ Thread ID 0x00000FD8
+ Thread ID 0x000022BC
+ Thread ID 0x00000CA8
+ Thread ID 0x00000AB8
+ Thread ID 0x00002308
+ Thread ID 0x00001C84
+ Thread ID 0x0000063C
+ Thread ID 0x000008E4
+ Thread ID 0x00002340
+ Thread ID 0x000021B4
+ Thread ID 0x00000FEC
+ Thread ID 0x000001A4
+ Thread ID 0x00000684
+ Thread ID 0x00001F5C
+ Thread ID 0x000006C8
+ Thread ID 0x00001834
+ Thread ID 0x000021E4
+ Thread ID 0x00002180
+ Thread ID 0x000000B0
+ Thread ID 0x000021AC
+ Thread ID 0x000017E0
+ Thread ID 0x00001E60
+ Thread ID 0x00000CC8
+ Thread ID 0x00001434
+ Thread ID 0x000019D4
+ Thread ID 0x000006B0
+ Thread ID 0x00001430
+ Thread ID 0x0000045C
+ Thread ID 0x00000510
+ Thread ID 0x00000968
+ Thread ID 0x00000F40
+
+----------------------------------------------------------------------
+PROCESS NAME: RuntimeBroker.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00000D60
+ Thread Count = 18
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001ECC
+ Thread ID 0x000013BC
+ Thread ID 0x00000300
+ Thread ID 0x00001C9C
+ Thread ID 0x000018D4
+ Thread ID 0x00001A28
+ Thread ID 0x000022AC
+ Thread ID 0x000019D0
+ Thread ID 0x00002370
+ Thread ID 0x00001E80
+ Thread ID 0x00001B58
+ Thread ID 0x00000A60
+ Thread ID 0x00000BFC
+ Thread ID 0x00001CBC
+ Thread ID 0x00001214
+ Thread ID 0x000015E4
+ Thread ID 0x00001F84
+ Thread ID 0x00002274
+
+----------------------------------------------------------------------
+PROCESS NAME: ShellExperienceHost.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x000015D4
+ Thread Count = 41
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000730
+ Thread ID 0x00001E7C
+ Thread ID 0x00001A78
+ Thread ID 0x00001D8C
+ Thread ID 0x00000AC0
+ Thread ID 0x00001840
+ Thread ID 0x00001728
+ Thread ID 0x0000170C
+ Thread ID 0x00000DE8
+ Thread ID 0x00000D6C
+ Thread ID 0x00001580
+ Thread ID 0x00000F18
+ Thread ID 0x00001708
+ Thread ID 0x00001A2C
+ Thread ID 0x00001B1C
+ Thread ID 0x00001830
+ Thread ID 0x00002034
+ Thread ID 0x000013AC
+ Thread ID 0x00000AB0
+ Thread ID 0x00000944
+ Thread ID 0x00000654
+ Thread ID 0x0000193C
+ Thread ID 0x000022A4
+ Thread ID 0x00002150
+ Thread ID 0x00001820
+ Thread ID 0x00001020
+ Thread ID 0x00000898
+ Thread ID 0x000015AC
+ Thread ID 0x00001CA0
+ Thread ID 0x00001588
+ Thread ID 0x00001384
+ Thread ID 0x00001904
+ Thread ID 0x00001004
+ Thread ID 0x00000B38
+ Thread ID 0x00000A64
+ Thread ID 0x00002288
+ Thread ID 0x00000D48
+ Thread ID 0x000017FC
+ Thread ID 0x00001298
+ Thread ID 0x00001944
+ Thread ID 0x000013F8
+
+----------------------------------------------------------------------
+PROCESS NAME: RtkNGUI64.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00001A8C
+ Thread Count = 9
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001DC8
+ Thread ID 0x00000BF4
+ Thread ID 0x0000145C
+ Thread ID 0x00000884
+ Thread ID 0x00000BEC
+ Thread ID 0x00001B24
+ Thread ID 0x00001290
+ Thread ID 0x000022DC
+ Thread ID 0x000009D0
+
+----------------------------------------------------------------------
+PROCESS NAME: RAVBg64.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x000003DC
+ Thread Count = 4
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001760
+ Thread ID 0x00001CCC
+ Thread ID 0x00000940
+ Thread ID 0x00002038
+
+----------------------------------------------------------------------
+PROCESS NAME: OneDrive.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00001914
+ Thread Count = 35
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001858
+ Thread ID 0x00001E3C
+ Thread ID 0x00001754
+ Thread ID 0x000017E4
+ Thread ID 0x000023D8
+ Thread ID 0x00001C78
+ Thread ID 0x00000568
+ Thread ID 0x00000890
+ Thread ID 0x000016B4
+ Thread ID 0x00001998
+ Thread ID 0x0000223C
+ Thread ID 0x00001D58
+ Thread ID 0x0000040C
+ Thread ID 0x00000BE0
+ Thread ID 0x000002F4
+ Thread ID 0x00000514
+ Thread ID 0x000020B0
+ Thread ID 0x000018A0
+ Thread ID 0x00001C38
+ Thread ID 0x00001A48
+ Thread ID 0x00001AC4
+ Thread ID 0x00001FF8
+ Thread ID 0x00001CDC
+ Thread ID 0x000014E4
+ Thread ID 0x00000B50
+ Thread ID 0x00001DC4
+ Thread ID 0x00000F60
+ Thread ID 0x0000133C
+ Thread ID 0x00001EC8
+ Thread ID 0x00000F84
+ Thread ID 0x00002154
+ Thread ID 0x00001FE8
+ Thread ID 0x00001374
+ Thread ID 0x000019F4
+ Thread ID 0x00001640
+
+----------------------------------------------------------------------
+PROCESS NAME: googledrivesync.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x000007D4
+ Thread Count = 1
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000013B0
+
+----------------------------------------------------------------------
+PROCESS NAME: Dropbox.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00001620
+ Thread Count = 65
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00002024
+ Thread ID 0x00001EF4
+ Thread ID 0x00001F20
+ Thread ID 0x00002070
+ Thread ID 0x00001D34
+ Thread ID 0x000010E8
+ Thread ID 0x00001F68
+ Thread ID 0x000015F8
+ Thread ID 0x000013C8
+ Thread ID 0x00001F28
+ Thread ID 0x000015B4
+ Thread ID 0x00000718
+ Thread ID 0x000022F0
+ Thread ID 0x00001018
+ Thread ID 0x00000F34
+ Thread ID 0x000002FC
+ Thread ID 0x00000C10
+ Thread ID 0x00002088
+ Thread ID 0x00001B20
+ Thread ID 0x00000CD4
+ Thread ID 0x00001498
+ Thread ID 0x000002EC
+ Thread ID 0x000016F8
+ Thread ID 0x000010A4
+ Thread ID 0x000012E0
+ Thread ID 0x00000DC0
+ Thread ID 0x000014B8
+ Thread ID 0x00000F98
+ Thread ID 0x000022C8
+ Thread ID 0x000011C0
+ Thread ID 0x00001B10
+ Thread ID 0x00001618
+ Thread ID 0x00001A00
+ Thread ID 0x0000210C
+ Thread ID 0x000003F8
+ Thread ID 0x000020B8
+ Thread ID 0x00002144
+ Thread ID 0x00001FA4
+ Thread ID 0x00000F24
+ Thread ID 0x00000FC0
+ Thread ID 0x0000138C
+ Thread ID 0x00001048
+ Thread ID 0x000019C0
+ Thread ID 0x00001C20
+ Thread ID 0x00001920
+ Thread ID 0x00000DD4
+ Thread ID 0x0000127C
+ Thread ID 0x00001F00
+ Thread ID 0x00001B54
+ Thread ID 0x000009F0
+ Thread ID 0x000010B4
+ Thread ID 0x00001250
+ Thread ID 0x000009EC
+ Thread ID 0x00000DE0
+ Thread ID 0x000015FC
+ Thread ID 0x0000143C
+ Thread ID 0x00000444
+ Thread ID 0x00002134
+ Thread ID 0x00000F04
+ Thread ID 0x00000B44
+ Thread ID 0x000007C0
+ Thread ID 0x000000CC
+ Thread ID 0x00000268
+ Thread ID 0x000007B0
+ Thread ID 0x000012CC
+
+----------------------------------------------------------------------
+PROCESS NAME: jusched.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x000019DC
+ Thread Count = 1
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000DC4
+
+----------------------------------------------------------------------
+PROCESS NAME: avgnt.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00000E00
+ Thread Count = 9
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000324
+ Thread ID 0x00001814
+ Thread ID 0x00001A98
+ Thread ID 0x00001688
+ Thread ID 0x00002050
+ Thread ID 0x0000235C
+ Thread ID 0x0000054C
+ Thread ID 0x000020B4
+ Thread ID 0x0000198C
+
+----------------------------------------------------------------------
+PROCESS NAME: googledrivesync.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00001360
+ Thread Count = 32
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001844
+ Thread ID 0x00001D80
+ Thread ID 0x00001454
+ Thread ID 0x000018A8
+ Thread ID 0x00000FAC
+ Thread ID 0x00001900
+ Thread ID 0x00000C3C
+ Thread ID 0x0000200C
+ Thread ID 0x00001968
+ Thread ID 0x00000428
+ Thread ID 0x000012F4
+ Thread ID 0x0000221C
+ Thread ID 0x00000F0C
+ Thread ID 0x00000B54
+ Thread ID 0x00001A94
+ Thread ID 0x00002224
+ Thread ID 0x00001718
+ Thread ID 0x00000C20
+ Thread ID 0x00001C24
+ Thread ID 0x00001304
+ Thread ID 0x00000B68
+ Thread ID 0x00001108
+ Thread ID 0x00002230
+ Thread ID 0x000021F4
+ Thread ID 0x000017CC
+ Thread ID 0x0000224C
+ Thread ID 0x00001DD4
+ Thread ID 0x000017A0
+ Thread ID 0x00001C34
+ Thread ID 0x000011D4
+ Thread ID 0x0000062C
+ Thread ID 0x00000A04
+
+----------------------------------------------------------------------
+PROCESS NAME: Avira.Systray.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00001B3C
+ Thread Count = 17
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000CF0
+ Thread ID 0x000003F0
+ Thread ID 0x00000108
+ Thread ID 0x0000126C
+ Thread ID 0x0000148C
+ Thread ID 0x00001590
+ Thread ID 0x00001130
+ Thread ID 0x000016AC
+ Thread ID 0x0000232C
+ Thread ID 0x000011F0
+ Thread ID 0x00001D7C
+ Thread ID 0x00001A7C
+ Thread ID 0x00000E54
+ Thread ID 0x00001908
+ Thread ID 0x00000D7C
+ Thread ID 0x00000ABC
+
+----------------------------------------------------------------------
+PROCESS NAME: fontdrvhost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000D1C
+ Thread Count = 5
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000D04
+ Thread ID 0x00001254
+ Thread ID 0x000012C8
+ Thread ID 0x00001E50
+ Thread ID 0x00000B10
+
+----------------------------------------------------------------------
+PROCESS NAME: svchost.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00001A3C
+ Thread Count = 3
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001C68
+ Thread ID 0x00000F38
+ Thread ID 0x00001DEC
+
+----------------------------------------------------------------------
+PROCESS NAME: taskhostw.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x000000C8
+ Thread Count = 5
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000017A8
+ Thread ID 0x00002374
+ Thread ID 0x000014D4
+ Thread ID 0x00001264
+ Thread ID 0x000018AC
+
+----------------------------------------------------------------------
+PROCESS NAME: ApplicationFrameHost.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00001330
+ Thread Count = 8
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000023FC
+ Thread ID 0x00001734
+ Thread ID 0x00001284
+ Thread ID 0x00001B68
+ Thread ID 0x00000C0C
+ Thread ID 0x000010B0
+ Thread ID 0x000023EC
+ Thread ID 0x000008F8
+
+----------------------------------------------------------------------
+PROCESS NAME: Microsoft.Photos.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00000E20
+ Thread Count = 36
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000016DC
+ Thread ID 0x000005A0
+ Thread ID 0x00001ADC
+ Thread ID 0x000022E0
+ Thread ID 0x000020AC
+ Thread ID 0x000021C4
+ Thread ID 0x00002244
+ Thread ID 0x00000590
+ Thread ID 0x00000F90
+ Thread ID 0x00000184
+ Thread ID 0x000009C0
+ Thread ID 0x00002140
+ Thread ID 0x00001ED4
+ Thread ID 0x00000FD4
+ Thread ID 0x000010E0
+ Thread ID 0x00001B78
+ Thread ID 0x00001630
+ Thread ID 0x00000BD4
+ Thread ID 0x00001F64
+ Thread ID 0x00001F1C
+ Thread ID 0x00001644
+ Thread ID 0x00000B28
+ Thread ID 0x000002AC
+ Thread ID 0x000010D8
+ Thread ID 0x000000D0
+ Thread ID 0x000014E8
+ Thread ID 0x00001658
+ Thread ID 0x00000264
+ Thread ID 0x00002054
+ Thread ID 0x00001060
+ Thread ID 0x000020D0
+ Thread ID 0x00001828
+ Thread ID 0x00000344
+ Thread ID 0x0000093C
+ Thread ID 0x00001810
+ Thread ID 0x00002148
+
+----------------------------------------------------------------------
+PROCESS NAME: devenv.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00001870
+ Thread Count = 50
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001C6C
+ Thread ID 0x00002124
+ Thread ID 0x00001F0C
+ Thread ID 0x00002228
+ Thread ID 0x00001744
+ Thread ID 0x0000215C
+ Thread ID 0x000013C4
+ Thread ID 0x00000EB4
+ Thread ID 0x00000378
+ Thread ID 0x00000794
+ Thread ID 0x00001148
+ Thread ID 0x000015EC
+ Thread ID 0x00001C48
+ Thread ID 0x00000420
+ Thread ID 0x000023A0
+ Thread ID 0x00001DE4
+ Thread ID 0x00002278
+ Thread ID 0x00001E20
+ Thread ID 0x000022E4
+ Thread ID 0x000000F0
+ Thread ID 0x00001D40
+ Thread ID 0x00001600
+ Thread ID 0x000012D0
+ Thread ID 0x00002094
+ Thread ID 0x00000EF8
+ Thread ID 0x00001C60
+ Thread ID 0x00000C68
+ Thread ID 0x00001994
+ Thread ID 0x00000FC8
+ Thread ID 0x00002190
+ Thread ID 0x000018FC
+ Thread ID 0x0000164C
+ Thread ID 0x0000228C
+ Thread ID 0x00002354
+ Thread ID 0x00001460
+ Thread ID 0x00000AA8
+ Thread ID 0x00001B90
+ Thread ID 0x00002170
+ Thread ID 0x00001978
+ Thread ID 0x00000AF8
+ Thread ID 0x00001B94
+ Thread ID 0x000020D4
+ Thread ID 0x00002048
+ Thread ID 0x00001B44
+ Thread ID 0x00000464
+ Thread ID 0x00001ACC
+ Thread ID 0x00001680
+ Thread ID 0x00001F40
+ Thread ID 0x00000BBC
+ Thread ID 0x000018F0
+
+----------------------------------------------------------------------
+PROCESS NAME: VsHub.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00001B60
+ Thread Count = 19
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000534
+ Thread ID 0x00001E68
+ Thread ID 0x00001EB0
+ Thread ID 0x0000099C
+ Thread ID 0x00000D08
+ Thread ID 0x00000954
+ Thread ID 0x00000F3C
+ Thread ID 0x00001898
+ Thread ID 0x00001748
+ Thread ID 0x00000D18
+ Thread ID 0x00000650
+ Thread ID 0x000007F8
+ Thread ID 0x00001F90
+ Thread ID 0x0000019C
+ Thread ID 0x000020EC
+ Thread ID 0x00001874
+ Thread ID 0x00001344
+ Thread ID 0x00000260
+ Thread ID 0x00000460
+
+----------------------------------------------------------------------
+PROCESS NAME: Microsoft.VsHub.Server.HttpHost.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x0000231C
+ Thread Count = 51
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000019AC
+ Thread ID 0x000014C4
+ Thread ID 0x000000BC
+ Thread ID 0x00000CEC
+ Thread ID 0x0000229C
+ Thread ID 0x00000C8C
+ Thread ID 0x0000089C
+ Thread ID 0x000021F8
+ Thread ID 0x00001184
+ Thread ID 0x00001AA0
+ Thread ID 0x00000F88
+ Thread ID 0x0000149C
+ Thread ID 0x000022B8
+ Thread ID 0x00000068
+ Thread ID 0x00001174
+ Thread ID 0x00001200
+ Thread ID 0x00000C14
+ Thread ID 0x0000179C
+ Thread ID 0x000004EC
+ Thread ID 0x00001694
+ Thread ID 0x00001C0C
+ Thread ID 0x000023B4
+ Thread ID 0x00000E44
+ Thread ID 0x00000DD0
+ Thread ID 0x00002330
+ Thread ID 0x000020E8
+ Thread ID 0x00000EF0
+ Thread ID 0x000008A8
+ Thread ID 0x00001ABC
+ Thread ID 0x00000A18
+ Thread ID 0x00000C54
+ Thread ID 0x00001124
+ Thread ID 0x00000AA4
+ Thread ID 0x000019D8
+ Thread ID 0x00001238
+ Thread ID 0x00000C34
+ Thread ID 0x000016F4
+ Thread ID 0x00000EE4
+ Thread ID 0x00001A90
+ Thread ID 0x000017B0
+ Thread ID 0x00001334
+ Thread ID 0x00001C50
+ Thread ID 0x00001244
+ Thread ID 0x00002364
+ Thread ID 0x00001D68
+ Thread ID 0x00001D98
+ Thread ID 0x00001D9C
+ Thread ID 0x00002380
+ Thread ID 0x000006DC
+ Thread ID 0x000011A0
+ Thread ID 0x00001B88
+ Thread ID 0x00001288
+
+----------------------------------------------------------------------
+PROCESS NAME: conhost.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x000009E0
+ Thread Count = 2
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x0000197C
+ Thread ID 0x000014D0
+
+----------------------------------------------------------------------
+PROCESS NAME: vcpkgsrv.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x000002E4
+ Thread Count = 8
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000AFC
+ Thread ID 0x000018C4
+ Thread ID 0x00001C14
+ Thread ID 0x00000610
+ Thread ID 0x00001DA0
+ Thread ID 0x000006C0
+ Thread ID 0x000008A0
+ Thread ID 0x00000F28
+
+----------------------------------------------------------------------
+PROCESS NAME: firefox.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00002328
+ Thread Count = 50
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001FD0
+ Thread ID 0x00001860
+ Thread ID 0x00000BE8
+ Thread ID 0x00000C88
+ Thread ID 0x0000051C
+ Thread ID 0x00001154
+ Thread ID 0x000005AC
+ Thread ID 0x0000227C
+ Thread ID 0x00001EE4
+ Thread ID 0x00000C48
+ Thread ID 0x00000B64
+ Thread ID 0x00001E94
+ Thread ID 0x00001CEC
+ Thread ID 0x00001378
+ Thread ID 0x00001150
+ Thread ID 0x0000113C
+ Thread ID 0x0000191C
+ Thread ID 0x0000226C
+ Thread ID 0x0000144C
+ Thread ID 0x00001258
+ Thread ID 0x000011E4
+ Thread ID 0x00000D9C
+ Thread ID 0x00001B70
+ Thread ID 0x000012E8
+ Thread ID 0x00000310
+ Thread ID 0x00000738
+ Thread ID 0x00002184
+ Thread ID 0x0000104C
+ Thread ID 0x0000236C
+ Thread ID 0x00001ED8
+ Thread ID 0x00001BF8
+ Thread ID 0x00001AA4
+ Thread ID 0x000012A4
+ Thread ID 0x00000E48
+ Thread ID 0x00001A60
+ Thread ID 0x00001A64
+ Thread ID 0x00000B94
+ Thread ID 0x000020DC
+ Thread ID 0x00001B6C
+ Thread ID 0x000018C0
+ Thread ID 0x00001A04
+ Thread ID 0x00002174
+ Thread ID 0x000003EC
+ Thread ID 0x00001D60
+ Thread ID 0x0000146C
+ Thread ID 0x00002220
+ Thread ID 0x00001240
+ Thread ID 0x00001724
+ Thread ID 0x0000190C
+ Thread ID 0x000017B8
+
+----------------------------------------------------------------------
+PROCESS NAME: SearchUI.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00001370
+ Thread Count = 23
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000608
+ Thread ID 0x00002168
+ Thread ID 0x00000494
+ Thread ID 0x0000135C
+ Thread ID 0x00001948
+ Thread ID 0x00001B9C
+ Thread ID 0x00000438
+ Thread ID 0x0000050C
+ Thread ID 0x00001924
+ Thread ID 0x00001A44
+ Thread ID 0x000019CC
+ Thread ID 0x00002358
+ Thread ID 0x00001EB8
+ Thread ID 0x00001F70
+ Thread ID 0x00002394
+ Thread ID 0x00001B04
+ Thread ID 0x000008C0
+ Thread ID 0x00001C74
+ Thread ID 0x000023E8
+ Thread ID 0x00000C18
+ Thread ID 0x00002194
+ Thread ID 0x00000740
+ Thread ID 0x00001AAC
+
+----------------------------------------------------------------------
+PROCESS NAME: vcpkgsrv.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x000022CC
+ Thread Count = 6
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000021DC
+ Thread ID 0x00000C74
+ Thread ID 0x00001310
+ Thread ID 0x000019C4
+ Thread ID 0x000021E0
+ Thread ID 0x00001B30
+
+----------------------------------------------------------------------
+PROCESS NAME: cmd.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x000000C4
+ Thread Count = 1
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x000013DC
+
+----------------------------------------------------------------------
+PROCESS NAME: conhost.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00001B0C
+ Thread Count = 2
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x0000049C
+ Thread ID 0x000005F4
+
+----------------------------------------------------------------------
+PROCESS NAME: notepad.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00000778
+ Thread Count = 1
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001C94
+
+----------------------------------------------------------------------
+PROCESS NAME: SearchProtocolHost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x000011E8
+ Thread Count = 9
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000F2C
+ Thread ID 0x0000175C
+ Thread ID 0x00001594
+ Thread ID 0x000012A8
+ Thread ID 0x000019A0
+ Thread ID 0x0000187C
+ Thread ID 0x00002008
+ Thread ID 0x000014F4
+ Thread ID 0x00002348
+
+----------------------------------------------------------------------
+PROCESS NAME: SearchFilterHost.exe
+----------------------------------------------------------------------
+
+Warning,
+OpenProcess failed with error 5 (Access is denied.
+)
+
+ Process ID = 0x00000408
+ Thread Count = 7
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000B90
+ Thread ID 0x00001824
+ Thread ID 0x000018D0
+ Thread ID 0x00000C40
+ Thread ID 0x000002A8
+ Thread ID 0x00001E04
+ Thread ID 0x00002248
+
+----------------------------------------------------------------------
+PROCESS NAME: MSBuild.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x0000165C
+ Thread Count = 11
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00002090
+ Thread ID 0x00001974
+ Thread ID 0x00002378
+ Thread ID 0x00001DB0
+ Thread ID 0x00001A9C
+ Thread ID 0x000015F4
+ Thread ID 0x0000109C
+ Thread ID 0x00001EF0
+ Thread ID 0x000002F8
+ Thread ID 0x00001BC0
+ Thread ID 0x000003AC
+
+----------------------------------------------------------------------
+PROCESS NAME: conhost.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00001568
+ Thread Count = 1
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00001F6C
+
+----------------------------------------------------------------------
+PROCESS NAME: mspdbsrv.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00001458
+ Thread Count = 3
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000BF0
+ Thread ID 0x0000171C
+ Thread ID 0x00000F94
+
+----------------------------------------------------------------------
+PROCESS NAME: pTrack.exe
+----------------------------------------------------------------------
+
+ Process ID = 0x00001340
+ Thread Count = 3
+Getting thread IDs in the process------------------->
+
+ Thread ID 0x00000F68
+ Thread ID 0x00000A08
+ Thread ID 0x00000D64
+
+______________________________________________________
+Number of Processes in memory is 85
