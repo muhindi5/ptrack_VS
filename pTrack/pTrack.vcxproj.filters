@@ -24,15 +24,12 @@
     <ClCompile Include="Tests.h">
       <Filter>Header Files</Filter>
     </ClCompile>
-    <ClCompile Include="Forger.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Dispatch.h">
       <Filter>Header Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="WinsockClient.h">
+    <ClInclude Include="Messanger.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
